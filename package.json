@@ -1,0 +1,25 @@
+{
+  "name": "qfe",
+  "version": "0.0.1",
+  "description": "Front End Integrated Solution for QBT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GilbertSun/qfe.git"
+  },
+  "keywords": [
+    "FIS"
+  ],
+  "author": "GilbertSun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GilbertSun/qfe/issues"
+  },
+  "homepage": "https://github.com/GilbertSun/qfe",
+  "dependencies": {
+    "fis": "^1.9.2"
+  }
+}
