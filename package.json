@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/GilbertSun/qfe",
   "dependencies": {
-    "fis": "^1.9.2"
+    "fis": "^1.9.2",
+    "fis-packager-depscombine": "0.0.7",
+    "fis-parser-less": "^0.1.2",
+    "fis-postpackager-autoload": "0.0.18",
+    "fis-postprocessor-amd": "^0.2.15"
   }
 }
