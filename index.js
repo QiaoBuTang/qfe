@@ -21,3 +21,17 @@ fis.cli.version = function(){
     console.log(content);
 };
 
+// 默认的配置
+
+fis.config.merge({
+    module: {
+        parser: {
+            less: 'less'
+        }
+    },
+    roadmap: {
+        ext: {
+            less: 'css'
+        }
+    }
+});
