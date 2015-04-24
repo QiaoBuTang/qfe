@@ -24,7 +24,7 @@ fis.cli.version = function(){
 // 默认的配置
 
 fis.config.merge({
-    module: {
+    modules: {
         parser: {
             less: 'less'
         }
