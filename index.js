@@ -27,11 +27,21 @@ fis.config.merge({
     modules: {
         parser: {
             less: 'less'
+        },
+        lint: {
+            'js': 'jshint'
         }
     },
     roadmap: {
         ext: {
             less: 'css'
+        }
+    },
+    settings: {
+        lint: {
+            jshint: {
+                
+            }
         }
     }
 });
