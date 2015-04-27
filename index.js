@@ -36,12 +36,5 @@ fis.config.merge({
         ext: {
             less: 'css'
         }
-    },
-    settings: {
-        lint: {
-            jshint: {
-                
-            }
-        }
     }
 });
