@@ -25,6 +25,6 @@
   "dependencies": {
     "fis": "^1.9.2",
     "fis-lint-jshint": "0.0.10",
-    "fis-parser-less": "^0.1.2",
+    "fis-parser-less": "^0.1.2"
   }
 }
