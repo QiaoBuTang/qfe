@@ -20,6 +20,7 @@ fis.cli.version = function(){
     ].join('\n');
     console.log(content);
 };
+fis.require.prefixes.unshift('qfe');
 
 // 默认的配置
 
