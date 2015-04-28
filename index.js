@@ -31,7 +31,8 @@ fis.config.merge({
         },
         lint: {
             'js': 'jshint'
-        }
+        },
+        postpackager: 'simple'
     },
     roadmap: {
         ext: {
