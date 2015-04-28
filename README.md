@@ -11,3 +11,4 @@
 
 1. 集成less插件
 2. 集成jshint插件
+3. 集成自动打包替换的插件postpackager
