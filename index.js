@@ -29,14 +29,26 @@ fis.config.merge({
         parser: {
             less: 'less'
         },
+        postprocessor: {
+            html: 'amd',
+            js: 'amd'
+        },
         lint: {
             'js': 'jshint'
         },
-        postpackager: 'simple'
+        postpackager: ['simple', 'autoload'],
+        packager: 'depscombine'
     },
     roadmap: {
         ext: {
             less: 'css'
+        }
+    },
+    settings: {
+        postpackager: {
+            autoload: {
+                type: 'requirejs'
+            }
         }
     }
 });
