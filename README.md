@@ -13,3 +13,9 @@
 2. 集成jshint插件
 3. 集成自动打包替换的插件postpackager
 4. 添加AMD支持
+
+### 使用方法
+
+```
+qfe <command> [options]
+```
