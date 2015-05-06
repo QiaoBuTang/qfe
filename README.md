@@ -17,5 +17,17 @@
 ### 使用方法
 
 ```
-qfe <command> [options]
+Usage: qfe <command>
+
+Commands:
+
+release     build and deploy your project
+install     install components
+server      launch a php-cgi server
+
+Options:
+
+-h, --help     output usage information
+-v, --version  output the version number
+--no-color     disable colored output
 ```
