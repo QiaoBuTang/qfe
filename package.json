@@ -27,6 +27,7 @@
     "fis-lint-jshint": "0.0.10",
     "fis-packager-depscombine": "0.0.8",
     "fis-parser-less": "^0.1.2",
+    "fis-parser-less-qbt": "^0.0.1",
     "fis-postpackager-autoload": "0.0.20",
     "fis-postpackager-simple": "0.0.25",
     "fis-postprocessor-amd": "^0.2.16"
