@@ -27,7 +27,7 @@ fis.require.prefixes.unshift('qfe');
 fis.config.merge({
     modules: {
         parser: {
-            less: 'less-qbt'
+            less: 'less'
         },
         postprocessor: {
             html: 'amd',
@@ -46,7 +46,7 @@ fis.config.merge({
     },
     settings: {
         parser: {
-            'less-qbt': {
+            'less': {
                 relativeUrls: false
             }
         },

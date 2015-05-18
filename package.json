@@ -1,6 +1,6 @@
 {
   "name": "qfe",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Front End Integrated Solution for QBT",
   "main": "index.js",
   "bin": {
@@ -26,8 +26,7 @@
     "fis": "1.9.14",
     "fis-lint-jshint": "0.0.10",
     "fis-packager-depscombine": "0.0.8",
-    "fis-parser-less": "^0.1.2",
-    "fis-parser-less-qbt": "^0.0.1",
+    "fis-parser-less": "^0.1.3",
     "fis-postpackager-autoload": "0.0.20",
     "fis-postpackager-simple": "0.0.25",
     "fis-postprocessor-amd": "^0.2.16"
