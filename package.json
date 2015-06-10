@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/GilbertSun/qfe",
   "dependencies": {
-    "fis": "1.9.14",
+    "fis": "1.9.26",
     "fis-lint-jshint": "0.0.10",
     "fis-packager-depscombine": "0.0.8",
     "fis-parser-less": "^0.1.3",
