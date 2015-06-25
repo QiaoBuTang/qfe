@@ -1,6 +1,6 @@
 {
   "name": "qfe",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Front End Integrated Solution for QBT",
   "main": "index.js",
   "bin": {
