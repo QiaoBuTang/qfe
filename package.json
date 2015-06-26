@@ -24,7 +24,7 @@
   "homepage": "https://github.com/GilbertSun/qfe",
   "dependencies": {
     "fis": "1.9.28",
-    "fis-lint-jshint": "0.0.11",
+    "fis-lint-jshint": "0.0.10",
     "fis-packager-depscombine": "0.0.8",
     "fis-parser-less": "^0.1.3",
     "fis-postpackager-autoload": "0.0.20",
