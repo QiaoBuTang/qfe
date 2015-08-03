@@ -25,9 +25,16 @@ fis.require.prefixes.unshift('qfe');
 // 默认的配置
 
 fis.config.merge({
+    project: {
+        fileType: {
+            text: 'es6, jsx'
+        }
+    },
     modules: {
         parser: {
-            less: 'less'
+            less: 'less',
+            es6: 'es6-babel',
+            jsx: 'es6-babel'
         },
         postprocessor: {
             html: 'amd',
@@ -41,7 +48,9 @@ fis.config.merge({
     },
     roadmap: {
         ext: {
-            less: 'css'
+            less: 'css',
+            es6: 'js',
+            jsx: 'js'
         }
     },
     settings: {
