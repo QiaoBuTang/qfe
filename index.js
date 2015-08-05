@@ -43,8 +43,7 @@ fis.config.merge({
         lint: {
             'js': 'jshint'
         },
-        postpackager: ['simple', 'autoload'],
-        packager: 'depscombine'
+        postpackager: ['simple', 'autoload']
     },
     roadmap: {
         ext: {
