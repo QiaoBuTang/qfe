@@ -1,6 +1,6 @@
 {
   "name": "qfe",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "Front End Integrated Solution for QBT",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:GilbertSun/qfe.git"
+    "url": "git@github.com:qiaobutang/qfe.git"
   },
   "keywords": [
     "FIS"
@@ -19,9 +19,9 @@
   "author": "GilbertSun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GilbertSun/qfe/issues"
+    "url": "https://github.com/qiaobutang/qfe/issues"
   },
-  "homepage": "https://github.com/GilbertSun/qfe",
+  "homepage": "https://github.com/qiaobutang/qfe",
   "dependencies": {
     "fis": "1.9.28",
     "fis-lint-jshint": "0.0.10",
